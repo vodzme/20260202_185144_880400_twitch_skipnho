@@ -1,0 +1,23 @@
+{
+    "generated_at": "2026-04-28T20:50:02+00:00",
+    "mode": "copy_from_processing_source",
+    "variants": {
+        "1080p": {
+            "slug": "1080",
+            "path": "/var/www/html/storage/app/private/processing/20260202_185144_880400_twitch_skipnho/media/1080.mp4",
+            "probe": {
+                "width": 1920,
+                "height": 1080,
+                "fps": 59.908,
+                "duration_seconds": 20439.27,
+                "size_bytes": 15789661306,
+                "video_codec": "h264",
+                "audio_codec": "aac",
+                "bitrate_kbps": 6180,
+                "format_name": "mov,mp4,m4a,3gp,3g2,mj2"
+            },
+            "mode": "copy",
+            "input_mode": "source_recordings_concat"
+        }
+    }
+}
